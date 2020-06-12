@@ -1,5 +1,5 @@
 # SBSC
 Codes for Subspace Clustering through Sub-Clusters: https://arxiv.org/abs/1811.06580
 
-# Data url
+## Data url
 (1) MNIST: 
