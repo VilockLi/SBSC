@@ -2,7 +2,7 @@
 Codes for Subspace Clustering through Sub-Clusters: https://arxiv.org/abs/1811.06580
 
 ## Data url
-(1) Extended Yale B:https://sites.google.com/site/rahmanisut/codes/dsc---innovation-pursuit 
+(1) Extended Yale B: https://sites.google.com/site/rahmanisut/codes/dsc---innovation-pursuit 
 
 (2) ZIPCODE: https://web.stanford.edu/~hastie/ElemStatLearn/data.html 
 
